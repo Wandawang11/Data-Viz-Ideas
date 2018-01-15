@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515185208734.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5BE7B4D5",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1515185208734,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "q2zxetdiqq",
+        "caption" : "tbl_busStatus",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tbl_busStatus&cache_key=q2zxetdiqq",
+        "displayedObservations" : 2,
+        "environment" : "",
+        "object" : "tbl_busStatus",
+        "totalObservations" : 2,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
